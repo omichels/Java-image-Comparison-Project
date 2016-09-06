@@ -24,4 +24,4 @@
 ****
 
 ## Resources
-  * 6) [patreon](https://www.patreon.com/OpticalQuantumVirus) <br />
+  * [patreon](https://www.patreon.com/OpticalQuantumVirus) <br />
